@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 una linea nomas
 otra linea nomas
+=======
+>>>>>>> parent of 7190078 (texto nuevo)
